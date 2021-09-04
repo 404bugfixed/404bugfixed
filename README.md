@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @404bugfixed
 - 👀 I’m interested with programming in web-development.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on any issueconcerning web-developemnt
+- 💞️ I’m looking to collaborate on any issue concerning in web-developemnt
 - 📫 How to reach me --> jsdopamine@gmail.com
 
 <!---
